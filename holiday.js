@@ -10,6 +10,6 @@ let num = 0
 
 // while文の場合
 while (num < 15) {
-    num = num + 1;
+    num = num++;
     console.log(holidays[num]);
 }
