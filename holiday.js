@@ -6,7 +6,7 @@ for (let i = 0; i <= 15; i++) {
 }
 
 
-let num = 0
+let num = -1
 
 // while文の場合
 while (num < 15) {
