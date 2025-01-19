@@ -1,5 +1,5 @@
-const num = (num1,num2) =>{
-    console.log(num1 ** num2)
+const num = (numbers) =>{
+    console.log(numbers ** 2)
 }
 
-num(10, 2);
+num(10);
